@@ -10,7 +10,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <div className="relative flex min-h-dvh flex-col overflow-hidden bg-white">
-        {/* Watermark — unchanged */}
+        
         <div
           aria-hidden="true"
           className="pointer-events-none absolute inset-0 z-0 select-none"
