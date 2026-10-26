@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Frimzy55/kazi_tech.git/static/css/main.3f1771d2.css",
+    "main.js": "/Frimzy55/kazi_tech.git/static/js/main.0433a9ae.js",
+    "static/js/453.9e052501.chunk.js": "/Frimzy55/kazi_tech.git/static/js/453.9e052501.chunk.js",
+    "static/media/kz.png": "/Frimzy55/kazi_tech.git/static/media/kz.de6318cfbbca7363ab98.png",
+    "index.html": "/Frimzy55/kazi_tech.git/index.html",
+    "main.3f1771d2.css.map": "/Frimzy55/kazi_tech.git/static/css/main.3f1771d2.css.map",
+    "main.0433a9ae.js.map": "/Frimzy55/kazi_tech.git/static/js/main.0433a9ae.js.map",
+    "453.9e052501.chunk.js.map": "/Frimzy55/kazi_tech.git/static/js/453.9e052501.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f1771d2.css",
+    "static/js/main.0433a9ae.js"
+  ]
+}
